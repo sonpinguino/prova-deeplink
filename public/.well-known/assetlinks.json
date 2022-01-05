@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.gruppohera.app2g",
+    "sha256_cert_fingerprints":
+    ["0B:8B:F6:90:16:8F:98:1A:EC:97:3F:C8:1D:1F:20:84:1A:CE:00:AA:02:E5:E0:F0:D7:35:22:53:26:3B:8C:DE"]
+  }
+}]
