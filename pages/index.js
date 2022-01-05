@@ -16,7 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
         <a
-          href="customscheme://hera-alfa.assistdigital.it/auth/hera/providers/app2g/login"
+          href="app2g://hera-alfa.assistdigital.it/login"
         >
           prova</a
         >
